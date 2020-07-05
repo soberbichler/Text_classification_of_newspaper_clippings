@@ -14,4 +14,4 @@ Read more about <a href="https://monkeylearn.com/blog/introduction-to-topic-mode
 
 Acknowledgments:
 
-This work has been inspired by a notebook on <a href="https://www.kaggle.com/vukglisovic/classification-combining-lda-and-word2vec" target="_blank">LDA and word embeddings</a> and several other soursces that provided help on how to buid models. This work was supported by the European Union's Horizon 2020 research and innovation programme under grant 770299 (NewsEye).
+This work has been inspired by a notebook on <a href="https://www.kaggle.com/vukglisovic/classification-combining-lda-and-word2vec" target="_blank">LDA and word embeddings</a> and several other soursces that provided help on how to build models. This work was supported by the European Union's Horizon 2020 research and innovation programme under grant 770299 (NewsEye).
