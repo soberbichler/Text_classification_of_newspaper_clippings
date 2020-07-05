@@ -1,0 +1,2 @@
+# Text_classification_of_newspaper_clippings
+Text classification for topic-specific newspaper collections
